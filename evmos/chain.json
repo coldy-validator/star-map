@@ -32,7 +32,7 @@
   },
   "codebase": {
     "git_repo": "https://github.com/evmos/evmos",
-    "recommended_version": "v8.2.",
+    "recommended_version": "v8.2.3",
     "compatible_versions": [
       "v8.2.3"
     ],
