@@ -34,7 +34,7 @@
   },
   "codebase": {
     "git_repo": "https://github.com/osmosis-labs/osmosis",
-    "recommended_version": "12.2.0",
+    "recommended_version": "v12.3.0",
     "compatible_versions": [
       "12.2.0"
     ],
