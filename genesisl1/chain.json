@@ -27,8 +27,8 @@
     ]
   },
   "codebase": {
-    "git_repo": "https://github.com/alpha-omega-labs/genesisd",
-    "recommended_version": "v0.3.0",
+    "git_repo": "https://github.com/doggystylez/genesisd",
+    "recommended_version": "v0.3.1",
     "compatible_versions": [
       "v0.3.0"
     ],
