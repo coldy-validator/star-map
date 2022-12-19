@@ -1,0 +1,7 @@
+{
+  "chain_id": "kitten-04",
+  "binary": "coolcat",
+  "repo": "https://github.com/DigitalKitchenLabs/coolcat",
+  "version": "v1.1.0",
+  "genesis": "https://raw.githubusercontent.com/DigitalKitchenLabs/testnets/main/kitten-04/genesis.json"
+}
