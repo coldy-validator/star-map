@@ -1,7 +1,0 @@
-{
-  "chain_id": "osmosis-1",
-  "binary": "osmosisd",
-  "repo": "https://github.com/osmosis-labs/osmosis",
-  "version": "v13.1.0",
-  "genesis": "https://github.com/osmosis-labs/networks/raw/main/osmosis-1/genesis.json"
-}
