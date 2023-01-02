@@ -2,7 +2,7 @@
   "chain_id": "evmos_9001-2",
   "binary": "evmosd",
   "repo": "https://github.com/evmos/evmos",
-  "version": "v10.0.0",
+  "version": "v9.1.0",
   "genesis": "https://archive.evmos.org/mainnet/genesis.json",
   "mev": "v0.34.22-mev.14"
 }
