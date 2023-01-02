@@ -3,5 +3,6 @@
   "binary": "evmosd",
   "repo": "https://github.com/evmos/evmos",
   "version": "v10.0.0",
-  "genesis": "https://archive.evmos.org/mainnet/genesis.json"
+  "genesis": "https://archive.evmos.org/mainnet/genesis.json",
+  "mev": "v0.34.22-mev.14"
 }
