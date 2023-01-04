@@ -1,5 +1,5 @@
 {
-  "chain_id": "quicksilver-1",
+  "chain_id": "quicksilver-2",
   "binary": "quicksilverd",
   "repo": "https://github.com/ingenuity-build/quicksilver",
   "version": "v1.2.0",
