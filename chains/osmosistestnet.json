@@ -1,0 +1,7 @@
+{
+  "chain_id": "osmo-test-4",
+  "binary": "osmosisd",
+  "repo": "https://github.com/osmosis-labs/osmosis",
+  "version": "v11.0.0",
+  "genesis": "https://github.com/osmosis-labs/networks/raw/main/osmo-test-4/genesis.tar.bz2"
+}
