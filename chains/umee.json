@@ -1,7 +1,7 @@
 {
-  "chain_id": "umee-1",
-  "binary": "umeed",
-  "repo": "https://github.com/umee-network/umee",
-  "version": "v4.0.0",
-  "genesis": "https://raw.githubusercontent.com/umee-network/mainnet/main/genesis.json"
+  "chain_id": "osmo-test-4",
+  "binary": "osmosisd",
+  "repo": "https://github.com/osmosis-labs/osmosis",
+  "version": "v14.0.0-rc1",
+  "genesis": "https://github.com/osmosis-labs/networks/raw/main/osmo-test-4/genesis.tar.bz2"
 }

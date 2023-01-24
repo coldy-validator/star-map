@@ -1,7 +1,7 @@
 {
-  "chain_id": "darchub",
-  "binary": "knstld",
-  "repo": "https://github.com/knstl/konstellation",
-  "version": "v0.6.2",
-  "genesis": "https://raw.githubusercontent.com/Konstellation/konstellation/master/config/genesis.json"
+  "chain_id": "uni-5",
+  "binary": "junod",
+  "repo": "https://github.com/CosmosContracts/juno",
+  "version": "v12.0.0-alpha",
+  "genesis": "https://raw.githubusercontent.com/CosmosContracts/testnets/main/uni-5/genesis.json"
 }

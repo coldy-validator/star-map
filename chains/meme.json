@@ -1,7 +1,7 @@
 {
-  "chain_id": "meme-1",
-  "binary": "memed",
-  "repo": "https://github.com/memecosmos/meme/",
-  "version": "v1.0.0",
-  "genesis": "https://github.com/memecosmos/mainnet/raw/main/meme-1/genesis.json"
+  "chain_id": "uni-5",
+  "binary": "junod",
+  "repo": "https://github.com/CosmosContracts/juno",
+  "version": "v12.0.0-alpha",
+  "genesis": "https://raw.githubusercontent.com/CosmosContracts/testnets/main/uni-5/genesis.json"
 }
