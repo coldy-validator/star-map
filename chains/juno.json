@@ -1,7 +1,8 @@
 {
-  "chain_id": "evmos_9000-4",
-  "binary": "evmosd",
-  "repo": "https://github.com/evmos/evmos",
-  "version": "v11.0.0-rc1",
-  "genesis": "https://github.com/evmos/testnets/raw/main/evmos_9000-4/genesis.zip"
+  "chain_id": "juno-1",
+  "binary": "junod",
+  "repo": "https://github.com/CosmosContracts/juno",
+  "version": "v11.0.0",
+  "genesis": "https://download.dimi.sh/juno-phoenix2-genesis.tar.gz",
+  "mev": "v0.34.21-mev.14"
 }

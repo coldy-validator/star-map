@@ -1,0 +1,7 @@
+{
+  "chain_id": "bitsong-2b",
+  "binary": "bitsongd",
+  "repo": "https://github.com/bitsongofficial/go-bitsong",
+  "version": "v0.13.0",
+  "genesis": "https://raw.githubusercontent.com/bitsongofficial/networks/master/bitsong-2b/genesis.json"
+}

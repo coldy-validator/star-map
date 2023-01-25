@@ -1,0 +1,7 @@
+{
+  "chain_id": "cerberus-chain-1",
+  "binary": "cerberusd",
+  "repo": "https://github.com/cerberus-zone/cerberus",
+  "version": "v3.0.1",
+  "genesis": "https://raw.githubusercontent.com/cerberus-zone/cerberus_genesis/main/genesis.json"
+}

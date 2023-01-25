@@ -1,7 +1,7 @@
 {
-  "chain_id": "osmo-test-4",
-  "binary": "osmosisd",
-  "repo": "https://github.com/osmosis-labs/osmosis",
-  "version": "v14.0.0-rc1",
-  "genesis": "https://github.com/osmosis-labs/networks/raw/main/osmo-test-4/genesis.tar.bz2"
+  "chain_id": "stride-1",
+  "binary": "strided",
+  "repo": "https://github.com/Stride-Labs/stride",
+  "version": "v5.0.0",
+  "genesis": "https://raw.githubusercontent.com/Stride-Labs/testnet/main/mainnet/genesis.json"
 }
