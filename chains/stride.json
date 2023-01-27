@@ -2,6 +2,6 @@
   "chain_id": "stride-1",
   "binary": "strided",
   "repo": "https://github.com/Stride-Labs/stride",
-  "version": "v5.0.0",
+  "version": "v5.1.1",
   "genesis": "https://raw.githubusercontent.com/Stride-Labs/testnet/main/mainnet/genesis.json"
 }
