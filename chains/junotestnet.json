@@ -2,6 +2,6 @@
   "chain_id": "uni-5",
   "binary": "junod",
   "repo": "https://github.com/CosmosContracts/juno",
-  "version": "v12.0.0-alpha",
+  "version": "v12.0.0-alpha3",
   "genesis": "https://raw.githubusercontent.com/CosmosContracts/testnets/main/uni-5/genesis.json"
 }
