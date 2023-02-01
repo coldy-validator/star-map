@@ -1,0 +1,7 @@
+{
+  "chain_id": "35-C",
+  "binary": "dymd",
+  "repo": "https://github.com/dymensionxyz/dymension",
+  "version": "v0.2.0-beta",
+  "genesis": "tbd"
+}
