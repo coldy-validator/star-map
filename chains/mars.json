@@ -1,0 +1,7 @@
+{
+  "chain_id": "mars-1",
+  "binary": "marsd",
+  "repo": "https://github.com/mars-protocol/hub",
+  "version": "v1.0.0",
+  "genesis": "https://raw.githubusercontent.com/mars-protocol/networks/main/mars-1/genesis.json"
+}
