@@ -1,7 +1,0 @@
-{
-  "chain_id": "joe-1",
-  "binary": "joed",
-  "repo": "https://github.com/joe-chain/joe",
-  "version": " v0.0.2",
-  "genesis": "https://github.com/joe-chain/joe/raw/main/network/genesis.json"
-}
