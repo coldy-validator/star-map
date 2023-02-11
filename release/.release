@@ -1,0 +1,14 @@
+{
+  "control": {
+    "maintainer": "<coldchain@interbloc.org>",
+    "description": "Ledger-compatible client and daemon"
+  },
+  "release": {
+    "label": "star-forge",
+    "suite": "stable",
+    "codename": "stable",
+    "version": "0.0.2",
+    "components": "main",
+    "description": "repository of binaries for Cosmos SDK blockchains"
+  }
+}
