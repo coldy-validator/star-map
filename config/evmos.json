@@ -4,5 +4,5 @@
   "repo": "https://github.com/evmos/evmos",
   "version": "v11.0.2",
   "genesis": "https://archive.evmos.org/mainnet/genesis.json",
-  "mev": "v0.34.25-mev.15"
+  "mev": "v0.34.26-mev.15"
 }
