@@ -2,7 +2,7 @@
   "chain_id": "juno-1",
   "binary": "junod",
   "repo": "https://github.com/CosmosContracts/juno",
-  "version": "v11.0.0",
+  "version": "v12.0.0",
   "genesis": "https://download.dimi.sh/juno-phoenix2-genesis.tar.gz",
   "mev": "v0.34.21-mev.14"
 }
