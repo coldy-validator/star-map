@@ -2,6 +2,6 @@
   "chain_id": "quicksilver-2",
   "binary": "quicksilverd",
   "repo": "https://github.com/ingenuity-build/quicksilver",
-  "version": "v1.2.2",
+  "version": "v1.2.3",
   "genesis": "https://github.com/ingenuity-build/mainnet/raw/main/genesis.json"
 }
