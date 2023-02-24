@@ -2,6 +2,6 @@
   "chain_id": "umee-1",
   "binary": "umeed",
   "repo": "https://github.com/umee-network/umee",
-  "version": "v4.0.1",
+  "version": "v4.1.0",
   "genesis": "https://raw.githubusercontent.com/umee-network/mainnet/main/genesis.json"
 }
