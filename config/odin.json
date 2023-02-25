@@ -1,7 +1,0 @@
-{
-  "chain_id": "odin-mainnet-freya",
-  "binary": "odind",
-  "repo": "https://github.com/ODIN-PROTOCOL/odin-core",
-  "version": "v0.6.2",
-  "genesis": "https://raw.githubusercontent.com/ODIN-PROTOCOL/networks/master/mainnets/odin-mainnet-freya/genesis.json"
-}
