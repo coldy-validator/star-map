@@ -1,7 +1,7 @@
 {
-  "chain_id": "bitsong-2b",
-  "binary": "bitsongd",
-  "repo": "https://github.com/bitsongofficial/go-bitsong",
-  "version": "v0.14.0",
-  "genesis": "https://raw.githubusercontent.com/bitsongofficial/networks/master/bitsong-2b/genesis.json"
+  "chain_id": "chihuahua-1",
+  "binary": "chihuahuad",
+  "repo": "https://github.com/ChihuahuaChain/chihuahua/",
+  "version": "v4.2.1",
+  "genesis": "https://raw.githubusercontent.com/ChihuahuaChain/chihuahua/main/mainnet/genesis.json"
 }
