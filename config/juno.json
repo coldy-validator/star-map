@@ -4,5 +4,5 @@
   "repo": "https://github.com/CosmosContracts/juno",
   "version": "v13.0.0",
   "genesis": "https://download.dimi.sh/juno-phoenix2-genesis.tar.gz",
-  "mev": "v0.34.24-mev.15"
+  "mev": "v0.34.26-mev.15"
 }
