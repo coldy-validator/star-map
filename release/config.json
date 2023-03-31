@@ -1,14 +1,19 @@
 {
-  "control": {
-    "maintainer": "<coldchain@interbloc.org>",
-    "description": "Ledger-compatible client and daemon"
-  },
-  "release": {
-    "label": "star-forge",
-    "suite": "stable",
-    "codename": "stable",
-    "version": "0.0.2",
-    "components": "main",
-    "description": "repository of binaries for Cosmos SDK blockchains"
+  "maintainer": "<coldchain@interbloc.org>",
+  "version": "0.0.3",
+  "description": "repository of binaries for Cosmos SDK blockchains",
+  "suites": {
+    "stable": {
+      "build": "goleveldb",
+      "description": "Ledger-compatible client and daemon"
+    },
+    "experimental": {
+      "build": "pebbledb",
+      "description": "Client and daemon with pebbledb"
+    },
+    "experimental-mev": {
+      "build": "pebbledb-mev",
+      "description": "Client and daemon with pebbledb and mev-tendermint"
+    }
   }
 }
