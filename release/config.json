@@ -11,7 +11,7 @@
       "build": "pebbledb",
       "description": "Client and daemon with pebbledb"
     },
-    "experimental-mev": {
+    "experimental_mev": {
       "build": "pebbledb-mev",
       "description": "Client and daemon with pebbledb and mev-tendermint"
     }
