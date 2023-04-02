@@ -1,7 +1,7 @@
 {
   "binary": "starsd",
-  "repo": "https://github.com/public-awesome/stargaze",
   "version": "v9.0.0",
+  "repo": "https://github.com/public-awesome/stargaze",
   "chain_id": "stargaze-1",
   "genesis": "https://raw.githubusercontent.com/public-awesome/mainnet/main/stargaze-1/genesis.tar.gz"
 }

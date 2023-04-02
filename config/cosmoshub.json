@@ -1,7 +1,7 @@
 {
   "binary": "gaiad",
-  "repo": "https://github.com/cosmos/gaia",
   "version": "v9.0.1",
+  "repo": "https://github.com/cosmos/gaia",
   "chain_id": "cosmoshub-4",
   "genesis": "https://github.com/cosmos/mainnet/raw/master/genesis/genesis.cosmoshub-4.json.gz"
 }

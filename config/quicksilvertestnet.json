@@ -1,7 +1,7 @@
 {
   "binary": "quicksilverd",
-  "repo": "https://github.com/ingenuity-build/quicksilver",
   "version": "v1.4.0-rc7",
+  "repo": "https://github.com/ingenuity-build/quicksilver",
   "chain_id": "innuendo-5",
   "genesis": "https://github.com/ingenuity-build/testnets/raw/main/innuendo/genesis.json"
 }
