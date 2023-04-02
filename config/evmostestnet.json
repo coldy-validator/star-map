@@ -1,7 +1,10 @@
 {
-  "chain_id": "evmos_9000-4",
   "binary": "evmosd",
   "repo": "https://github.com/evmos/evmos",
   "version": "v12.0.0-rc4",
-  "genesis": "https://github.com/evmos/testnets/raw/main/evmos_9000-4/genesis.zip"
+  "chain_id": "evmos_9000-4",
+  "genesis": "https://github.com/evmos/testnets/raw/main/evmos_9000-4/genesis.zip",
+  "variants": {
+    "skip": "v0.34.26-mev.16"
+  }
 }

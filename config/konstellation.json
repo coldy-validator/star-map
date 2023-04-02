@@ -1,7 +1,7 @@
 {
-  "chain_id": "darchub",
   "binary": "knstld",
   "repo": "https://github.com/knstl/konstellation",
   "version": "v0.6.2",
+  "chain_id": "darchub",
   "genesis": "https://raw.githubusercontent.com/Konstellation/konstellation/master/config/genesis.json"
 }

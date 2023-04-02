@@ -1,8 +1,10 @@
 {
-  "chain_id": "evmos_9001-2",
   "binary": "evmosd",
   "repo": "https://github.com/evmos/evmos",
   "version": "v12.1.0",
+  "chain_id": "evmos_9001-2",
   "genesis": "https://archive.evmos.org/mainnet/genesis.json",
-  "mev": "v0.34.26-mev.16"
+  "variants": {
+    "skip": "v0.34.26-mev.16"
+  }
 }

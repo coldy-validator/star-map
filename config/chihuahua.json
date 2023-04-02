@@ -1,7 +1,7 @@
 {
-  "chain_id": "chihuahua-1",
   "binary": "chihuahuad",
   "repo": "https://github.com/ChihuahuaChain/chihuahua/",
   "version": "v4.2.1",
+  "chain_id": "chihuahua-1",
   "genesis": "https://raw.githubusercontent.com/ChihuahuaChain/chihuahua/main/mainnet/genesis.json"
 }
