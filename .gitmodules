@@ -1,3 +1,6 @@
 [submodule "chain-registry"]
 	path = chain-registry
 	url = git@github.com:doggystylez/chain-registry
+[submodule "skip-config"]
+	path = skip-config
+	url = git@github.com:skip-mev/config
