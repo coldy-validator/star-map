@@ -1,11 +1,15 @@
 {
   "maintainer": "<coldchain@interbloc.org>",
-  "version": "0.0.3",
-  "description": "repository of binaries for Cosmos SDK blockchains",
+  "version": "0.1.0",
+  "description": "A repository of binaries for Cosmos SDK blockchains",
   "suites": {
     "stable": {
       "build": "goleveldb",
       "description": "Ledger-compatible client and daemon"
+    },
+    "mev": {
+      "build": "goleveldb-mev",
+      "description": "Ledger-compatible client and daemon with mev-tendermint"
     },
     "experimental": {
       "build": "pebbledb",

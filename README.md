@@ -17,3 +17,9 @@ install desired executables:
 ```
 apt install osmosisd junod
 ```
+suite | ledger | goleveldb | pebbledb | skip mev
+ :--- | :---: | :---: | :---: | :---:
+**stable** | ✅ | ✅ | ❌ | ❌
+**mev** | ✅ | ✅ | ❌ | ✅
+**experimental** | ❌ | ❌ | ✅ | ❌
+**experimental_mev** | ❌ | ❌ | ✅ | ✅
