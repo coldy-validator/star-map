@@ -1,7 +1,0 @@
-{
-  "binary": "memed",
-  "version": "v1.0.0",
-  "repo": "https://github.com/memecosmos/meme/",
-  "chain_id": "meme-1",
-  "genesis": "https://github.com/memecosmos/mainnet/raw/main/meme-1/genesis.json"
-}

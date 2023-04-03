@@ -1,7 +1,0 @@
-{
-  "binary": "junod",
-  "version": "v14.0.0-alpha.1",
-  "repo": "https://github.com/CosmosContracts/juno",
-  "chain_id": "uni-6",
-  "genesis": "https://raw.githubusercontent.com/CosmosContracts/testnets/main/uni-6/genesis.json"
-}
