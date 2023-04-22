@@ -1,0 +1,7 @@
+{
+  "binary": "axelard",
+  "version": "v0.33.0",
+  "repo": "https://github.com/axelarnetwork/axelar-core",
+  "chain_id": "axelar-dojo-1",
+  "genesis": "https://raw.githubusercontent.com/axelarnetwork/axelarate-community/main/resources/mainnet/genesis.json"
+}
