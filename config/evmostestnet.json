@@ -3,8 +3,5 @@
   "version": "v12.0.0-rc4",
   "repo": "https://github.com/evmos/evmos",
   "chain_id": "evmos_9000-4",
-  "genesis": "https://github.com/evmos/testnets/raw/main/evmos_9000-4/genesis.zip",
-  "variants": {
-    "skip": "v0.34.26-mev.16"
-  }
+  "genesis": "https://github.com/evmos/testnets/raw/main/evmos_9000-4/genesis.zip"
 }
