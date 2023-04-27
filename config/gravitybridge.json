@@ -1,0 +1,7 @@
+{
+  "binary": "gravity",
+  "version": "v1.8.0",
+  "repo": "https://github.com/Gravity-Bridge/Gravity-Bridge",
+  "chain_id": "gravity-bridge-3",
+  "genesis": "https://raw.githubusercontent.com/Gravity-Bridge/Gravity-Docs/main/genesis.json"
+}
