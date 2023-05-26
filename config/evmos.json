@@ -1,6 +1,6 @@
 {
   "binary": "evmosd",
-  "version": "v12.1.3",
+  "version": "v12.1.4",
   "repo": "https://github.com/evmos/evmos",
   "chain_id": "evmos_9001-2",
   "genesis": "https://archive.evmos.org/mainnet/genesis.json"
