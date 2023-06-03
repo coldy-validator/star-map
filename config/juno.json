@@ -4,6 +4,9 @@
   "repo": "https://github.com/CosmosContracts/juno",
   "chain_id": "juno-1",
   "genesis": "https://download.dimi.sh/juno-phoenix2-genesis.tar.gz",
+  "fee_tokens": [
+    "ujuno"
+  ],
   "variants": {
     "skip": "v0.34.27-mev.18"
   }

@@ -3,5 +3,8 @@
   "version": "v9.0.1",
   "repo": "https://github.com/Stride-Labs/stride",
   "chain_id": "stride-1",
-  "genesis": "https://raw.githubusercontent.com/Stride-Labs/testnet/main/mainnet/genesis.json"
+  "genesis": "https://raw.githubusercontent.com/Stride-Labs/testnet/main/mainnet/genesis.json",
+  "fee_tokens": [
+    "ustrd"
+  ]
 }

@@ -3,5 +3,8 @@
   "version": "v1.0.1",
   "repo": "https://github.com/mars-protocol/hub",
   "chain_id": "mars-1",
-  "genesis": "https://github.com/mars-protocol/networks/raw/main/mars-1/genesis.json"
+  "genesis": "https://github.com/mars-protocol/networks/raw/main/mars-1/genesis.json",
+  "fee_tokens": [
+    "umars"
+  ]
 }

@@ -3,5 +3,8 @@
   "version": "v1.2.10",
   "repo": "https://github.com/ingenuity-build/quicksilver",
   "chain_id": "quicksilver-2",
-  "genesis": "https://github.com/ingenuity-build/mainnet/raw/main/genesis.json"
+  "genesis": "https://github.com/ingenuity-build/mainnet/raw/main/genesis.json",
+  "fee_tokens": [
+    "uqck"
+  ]
 }

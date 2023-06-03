@@ -3,5 +3,8 @@
   "version": "v9.1.0",
   "repo": "https://github.com/public-awesome/stargaze",
   "chain_id": "stargaze-1",
-  "genesis": "https://raw.githubusercontent.com/public-awesome/mainnet/main/stargaze-1/genesis.tar.gz"
+  "genesis": "https://raw.githubusercontent.com/public-awesome/mainnet/main/stargaze-1/genesis.tar.gz",
+  "fee_tokens": [
+    "ustars"
+  ]
 }

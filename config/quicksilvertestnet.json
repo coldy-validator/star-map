@@ -3,5 +3,8 @@
   "version": "v1.4.2-rc7",
   "repo": "https://github.com/ingenuity-build/quicksilver",
   "chain_id": "rhye-1",
-  "genesis": "https://raw.githubusercontent.com/ingenuity-build/testnets/main/rhye/genesis.json"
+  "genesis": "https://raw.githubusercontent.com/ingenuity-build/testnets/main/rhye/genesis.json",
+  "fee_tokens": [
+    "uqck"
+  ]
 }

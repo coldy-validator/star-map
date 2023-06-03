@@ -3,5 +3,8 @@
   "version": "v12.1.4",
   "repo": "https://github.com/evmos/evmos",
   "chain_id": "evmos_9001-2",
-  "genesis": "https://archive.evmos.org/mainnet/genesis.json"
+  "genesis": "https://archive.evmos.org/mainnet/genesis.json",
+  "fee_tokens": [
+    "aevmos"
+  ]
 }

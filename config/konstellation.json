@@ -3,5 +3,8 @@
   "version": "v0.6.2",
   "repo": "https://github.com/knstl/konstellation",
   "chain_id": "darchub",
-  "genesis": "https://raw.githubusercontent.com/Konstellation/konstellation/master/config/genesis.json"
+  "genesis": "https://raw.githubusercontent.com/Konstellation/konstellation/master/config/genesis.json",
+  "fee_tokens": [
+    "udarc"
+  ]
 }

@@ -3,5 +3,8 @@
   "version": "v9.1.0",
   "repo": "https://github.com/cosmos/gaia",
   "chain_id": "cosmoshub-4",
-  "genesis": "https://github.com/cosmos/mainnet/raw/master/genesis/genesis.cosmoshub-4.json.gz"
+  "genesis": "https://github.com/cosmos/mainnet/raw/master/genesis/genesis.cosmoshub-4.json.gz",
+  "fee_tokens": [
+    "uatom"
+  ]
 }
