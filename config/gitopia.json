@@ -1,1 +1,10 @@
-
+{
+  "binary": "gitopiad",
+  "version": "v2.0.0",
+  "repo": "https://github.com/gitopia/gitopia",
+  "chain_id": "gitopia",
+  "genesis": "https://github.com/gitopia/mainnet/raw/master/genesis.tar.gz",
+  "fee_tokens": [
+    "ulore"
+  ]
+}
