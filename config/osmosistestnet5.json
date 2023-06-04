@@ -1,9 +1,9 @@
 {
   "binary": "osmosisd",
-  "version": "v15.1.2",
+  "version": "v15.0.0",
   "repo": "https://github.com/osmosis-labs/osmosis",
-  "chain_id": "osmosis-1",
-  "genesis": "https://github.com/osmosis-labs/networks/raw/main/osmosis-1/genesis.json",
+  "chain_id": "osmo-test-5",
+  "genesis": "https://genesis.osmotest5.osmosis.zone/genesis.json",
   "fee_tokens": [
     "uosmo"
   ]

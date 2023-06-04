@@ -1,10 +1,10 @@
 {
-  "binary": "gaiad",
-  "version": "v9.1.0",
-  "repo": "https://github.com/cosmos/gaia",
-  "chain_id": "cosmoshub-4",
-  "genesis": "https://github.com/cosmos/mainnet/raw/master/genesis/genesis.cosmoshub-4.json.gz",
+  "binary": "dymd",
+  "version": "v0.2.0-beta",
+  "repo": "https://github.com/dymensionxyz/dymension",
+  "chain_id": "35-C",
+  "genesis": "tbd",
   "fee_tokens": [
-    "uatom"
+    "udym"
   ]
 }
