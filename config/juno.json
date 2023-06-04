@@ -1,6 +1,6 @@
 {
   "binary": "junod",
-  "version": "v14.1.0",
+  "version": "v15.0.0",
   "repo": "https://github.com/CosmosContracts/juno",
   "chain_id": "juno-1",
   "genesis": "https://download.dimi.sh/juno-phoenix2-genesis.tar.gz",
