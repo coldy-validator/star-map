@@ -1,10 +1,13 @@
 {
   "binary": "junod",
-  "version": "v14.0.0-alpha.1",
+  "version": "v14.1.0",
   "repo": "https://github.com/CosmosContracts/juno",
-  "chain_id": "uni-6",
-  "genesis": "https://raw.githubusercontent.com/CosmosContracts/testnets/main/uni-6/genesis.json",
+  "chain_id": "juno-1",
+  "genesis": "https://download.dimi.sh/juno-phoenix2-genesis.tar.gz",
   "fee_tokens": [
-    "ujunox"
-  ]
+    "ujuno"
+  ],
+  "variants": {
+    "skip": "v0.34.27-mev.18"
+  }
 }
