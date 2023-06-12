@@ -1,3 +1,5 @@
+***⚠️ this repo and the links herein are deprecated as of June 12, 2023, however the [star map lives on](https://github.com/InterblocDAO/star-map)***
+
 # 🌌
 
 repository of statically-linked chain binaries, tracking the [cosmos chain registry](https://github.com/cosmos/chain-registry), available at [autobuild.coldyvalidator.net](https://autobuild.coldyvalidator.net)
